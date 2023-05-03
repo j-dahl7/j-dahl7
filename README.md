@@ -10,7 +10,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 Experienced IT professional with a distinguished military background in the United States Marine Corps specializing in cloud architecture and systems engineering. I possess a robust capacity to streamline system and network efficiency, fortify security and accessibility, and augment end-user satisfaction in fast-paced, highly competitive industries. My proven track record includes configuring and managing extensive computing environments for diverse businesses and clients, ensuring optimal functionality, performance, and security. I am well-equipped to tackle complex IT challenges with extensive experience in network and server operations, emerging technology, automation, cyber security, data preservation, and disaster recovery strategies.
+Experienced IT professional with a distinguished military background in the United States Marine Corps specializing in cloud architecture and systems engineering. I possess a robust capacity to streamline system and network efficiency, fortify security and accessibility, and augment end-user satisfaction in fast-paced, highly competitive industries. My proven track record includes configuring and managing extensive computing environments for diverse businesses and clients, ensuring optimal functionality, performance, and security. I am well-equipped to tackle complex IT challenges with extensive experience in network and server operations, emerging technology, automation, cyber security, data preservation, and disaster recovery strategies.
 
 In addition to my technical acumen, I am passionate about broadening my network and identifying opportunities to support others in their personal and professional endeavors.
 <!--
