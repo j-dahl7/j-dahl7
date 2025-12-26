@@ -13,10 +13,19 @@
 As an experienced IT professional with a distinguished United States Marine Corps background, I specialize in cloud architecture, security, and systems engineering. My expertise is centered on enhancing system and network performance, reinforcing security measures, and improving user satisfaction. I have a proven track record in configuring and managing extensive computing environments across various industries, ensuring optimal functionality, performance, and security. Equipped to tackle complex IT challenges, my experience encompasses network and server operations, emerging technologies, automation, cybersecurity, data preservation, and disaster recovery strategies.
 
 Beyond my technical expertise, I am deeply committed to expanding my professional network and seeking opportunities to aid others in their personal and career pursuits.
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🔐 [Terraform 1.11's Game-Changer: Keep Secrets Out of State for Good](https://nineliveszerotrust.com/blog/terraform-secrets-write-only/) - Write-only arguments finally solve the "secrets in state" problem
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more posts on nineliveszerotrust.com](https://nineliveszerotrust.com/blog/)
+
 <!--
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I'm currently learning 
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -34,6 +43,8 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 <p align="center">
   <a href="https://www.linkedin.com/in/jerraddahlager/">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Jerrad%20Dahlager-blue?style=for-the-badge&logo=Linkedin&logoColor=white/"></a>
+  <a href="https://nineliveszerotrust.com">
+    <img alt="Blog" title="Nine Lives, Zero Trust" src="https://img.shields.io/badge/-Nine%20Lives%2C%20Zero%20Trust-orange?style=for-the-badge&logo=hugo&logoColor=white/"></a>
 </p>
 
 ## 📊 Github stats
