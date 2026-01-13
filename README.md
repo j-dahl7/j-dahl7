@@ -17,7 +17,11 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🛡️ [Building an LLM Prompt Injection Firewall with AWS Lambda](https://nineliveszerotrust.com/blog/llm-prompt-injection-firewall/) - Serverless firewall with Terraform lab to block prompt injection attacks
+- 🔒 [Sentinel MCP Server: Securing Your SOC's New AI Attack Surface](https://nineliveszerotrust.com/blog/sentinel-mcp-server-security/) - Zero Trust controls for AI-integrated security operations
+- 📦 [Secure Your Container Supply Chain: SBOM, Signing & Attestation](https://nineliveszerotrust.com/blog/container-sbom-signing-attestation/) - GitHub Actions pipeline for container security
 - 🔐 [Terraform 1.11's Game-Changer: Keep Secrets Out of State for Good](https://nineliveszerotrust.com/blog/terraform-secrets-write-only/) - Write-only arguments finally solve the "secrets in state" problem
+- 🤖 [Securing the Agentic Workforce: Microsoft's Zero Trust for AI Agents](https://nineliveszerotrust.com/blog/zero-trust-ai-agents-microsoft/) - Zero Trust framework for AI agents with tool-use capabilities
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more posts on nineliveszerotrust.com](https://nineliveszerotrust.com/blog/)
