@@ -54,13 +54,15 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 ## 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-dahl7&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j-dahl7&theme=default" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j-dahl7&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=j-dahl7&theme=default" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=j-dahl7&theme=default&utcOffset=-6" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dahl7&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j-dahl7&theme=default" alt="Repos by Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=j-dahl7&theme=default" alt="Most Commit Language" />
 </p>
