@@ -29,6 +29,20 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 
 ---
 
+### 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/34959cda-2ecf-4087-9d98-a826a1eb2db4/public_url"><img src="https://img.shields.io/badge/CISSP-006400?style=for-the-badge&logoColor=white" alt="CISSP" /></a>
+  <a href="https://www.credly.com/badges/19a09cee-49a2-4f02-b031-d903140574d2/public_url"><img src="https://img.shields.io/badge/CCSP-006400?style=for-the-badge&logoColor=white" alt="CCSP" /></a>
+  <a href="https://www.credly.com/badges/0e145685-c448-43be-a9e3-46ff469a6194/public_url"><img src="https://img.shields.io/badge/AWS_SA_Professional-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Solutions Architect Professional" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JerradDahlager/A2C977566D42F046?sharingId=CAC78867D95C7E2E"><img src="https://img.shields.io/badge/Azure_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Solutions Architect Expert" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JerradDahlager/C6FAA3A2D4F6876E?sharingId=CAC78867D95C7E2E"><img src="https://img.shields.io/badge/Cybersecurity_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cybersecurity Architect Expert" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JerradDahlager/5B8724C76979F1F8?sharingId=CAC78867D95C7E2E"><img src="https://img.shields.io/badge/Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Security Engineer Associate" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JerradDahlager/B33BF230F68F5064?sharingId=CAC78867D95C7E2E"><img src="https://img.shields.io/badge/Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Administrator Associate" /></a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -49,11 +63,11 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AKS Runtime Security: Binary Drift, Anti-Malware & Gated Deployment with Defender for Cloud](https://nineliveszerotrust.com/blog/aks-runtime-security-defender/) - Runtime security for AKS with binary drift detection, anti-malware, and gated deployments
+- [Detecting OAuth Redirect Abuse with Microsoft Sentinel and Entra ID](https://nineliveszerotrust.com/blog/oauth-redirect-abuse-sentinel/) - Detection rules for OAuth phishing campaigns exploiting redirect URIs
 - [The February 2026 Microsoft Sentinel Drop: UEBA Essentials, Copilot Connector, and 9 New GA Connectors](https://nineliveszerotrust.com/blog/february-2026-sentinel-drop/) - UEBA hunting queries, M365 Copilot connector, and battle-tested KQL
 - [March 2026 Entra ID Changes: Passkey Auto-Enablement and Conditional Access Enforcement](https://nineliveszerotrust.com/blog/entra-march-2026-passkeys-ca/) - Audit your tenant before Microsoft auto-enables synced passkeys and closes a CA gap
 - [Just-In-Time Access for AI Agents: Building a ZSP Gateway in Azure](https://nineliveszerotrust.com/blog/zero-standing-privilege-azure/) - Zero Standing Privilege gateway for service principals with automatic revocation
-- [Building an LLM Prompt Injection Firewall with AWS Lambda](https://nineliveszerotrust.com/blog/llm-prompt-injection-firewall/) - Serverless firewall with Terraform lab to block prompt injection attacks
-- [Sentinel MCP Server: Securing Your SOC's New AI Attack Surface](https://nineliveszerotrust.com/blog/sentinel-mcp-server-security/) - Zero Trust controls for AI-integrated security operations
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more posts on nineliveszerotrust.com](https://nineliveszerotrust.com/blog/)
@@ -87,9 +101,9 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 <!-- Trophies -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=j-dahl7&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=j-dahl7&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" />
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=j-dahl7&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=j-dahl7&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=j-dahl7&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" />
+    <img width="98%" src="https://github-trophies.vercel.app/?username=j-dahl7&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
   </picture>
 </p>
 
