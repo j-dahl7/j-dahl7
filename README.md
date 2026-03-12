@@ -29,7 +29,7 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 
 ---
 
-### 🏅 Certifications
+### Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/34959cda-2ecf-4087-9d98-a826a1eb2db4/public_url"><img src="https://img.shields.io/badge/CISSP-006400?style=for-the-badge&logoColor=white" alt="CISSP" /></a>
@@ -43,7 +43,7 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -60,7 +60,7 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [AKS Runtime Security: Binary Drift, Anti-Malware & Gated Deployment with Defender for Cloud](https://nineliveszerotrust.com/blog/aks-runtime-security-defender/) - Runtime security for AKS with binary drift detection, anti-malware, and gated deployments
@@ -74,7 +74,7 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <picture>
