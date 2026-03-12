@@ -8,7 +8,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Security+Engineer;Zero+Trust+Architect;Identity+%26+Access+Specialist;Infrastructure+as+Code;DevSecOps+Practitioner&font=JetBrains+Mono&center=true&width=500&height=45&color=f59e0b&vCenter=true&size=20&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Security+Architect;Zero+Trust+Architect;Identity+%26+Access+Specialist;Infrastructure+as+Code;DevSecOps+Practitioner&font=JetBrains+Mono&center=true&width=500&height=45&color=f59e0b&vCenter=true&size=20&pause=1000" alt="Typing SVG" />
   </a>
 </p>
 
