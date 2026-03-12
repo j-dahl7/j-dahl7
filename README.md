@@ -98,15 +98,6 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
   </picture>
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=j-dahl7&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=j-dahl7&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" />
-    <img width="98%" src="https://github-trophies.vercel.app/?username=j-dahl7&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
-  </picture>
-</p>
-
 <!-- Contribution Snake -->
 <p align="center">
   <picture>
