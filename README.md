@@ -62,13 +62,7 @@ Beyond my technical expertise, I am deeply committed to expanding my professiona
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [AKS Runtime Security: Binary Drift, Anti-Malware & Gated Deployment with Defender for Cloud](https://nineliveszerotrust.com/blog/aks-runtime-security-defender/) - Runtime security for AKS with binary drift detection, anti-malware, and gated deployments
-- [Detecting OAuth Redirect Abuse with Microsoft Sentinel and Entra ID](https://nineliveszerotrust.com/blog/oauth-redirect-abuse-sentinel/) - Detection rules for OAuth phishing campaigns exploiting redirect URIs
-- [The February 2026 Microsoft Sentinel Drop: UEBA Essentials, Copilot Connector, and 9 New GA Connectors](https://nineliveszerotrust.com/blog/february-2026-sentinel-drop/) - UEBA hunting queries, M365 Copilot connector, and battle-tested KQL
-- [March 2026 Entra ID Changes: Passkey Auto-Enablement and Conditional Access Enforcement](https://nineliveszerotrust.com/blog/entra-march-2026-passkeys-ca/) - Audit your tenant before Microsoft auto-enables synced passkeys and closes a CA gap
-- [Just-In-Time Access for AI Agents: Building a ZSP Gateway in Azure](https://nineliveszerotrust.com/blog/zero-standing-privilege-azure/) - Zero Standing Privilege gateway for service principals with automatic revocation
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[Building Custom Sentinel Connectors in One Click with CCF Push](https://nineliveszerotrust.com/blog/sentinel-ccf-push-connector/) - Getting custom data into Microsoft Sentinel has traditionally required a lot of moving parts. You need a Data Collection...[AKS Runtime Security: Binary Drift, Anti-Malware &amp; Gated Deployment with Defender for Cloud](https://nineliveszerotrust.com/blog/aks-runtime-security-defender/) - In December, I published a post on securing the container supply chain — SBOM generation, image signing, and build prove...[Detecting OAuth Redirect Abuse with Microsoft Sentinel and Entra ID](https://nineliveszerotrust.com/blog/oauth-redirect-abuse-sentinel/) - On March 2, 2026, Microsoft published an advisory on OAuth redirection abuse enabling phishing and malware delivery. Mic...[The February 2026 Microsoft Sentinel Drop: UEBA Essentials, Copilot Connector, and 9 New GA Connectors](https://nineliveszerotrust.com/blog/february-2026-sentinel-drop/) - February 2026 brought one of the more substantial Sentinel drops in recent memory. UEBA Essentials hit v3.0.6 with a ref...[March 2026 Entra ID Changes: Passkey Auto-Enablement and Conditional Access Enforcement](https://nineliveszerotrust.com/blog/entra-march-2026-passkeys-ca/) - Microsoft is shipping two Entra ID changes in March 2026 that will change how your users authenticate. Neither change re...<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more posts on nineliveszerotrust.com](https://nineliveszerotrust.com/blog/)
 
