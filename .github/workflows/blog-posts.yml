@@ -2,7 +2,7 @@ name: Latest Blog Posts
 
 on:
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "17 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,7 +17,12 @@ jobs:
         with:
           feed_list: "https://nineliveszerotrust.com/index.xml"
           max_post_count: "5"
-          # Custom templates need explicit newlines to separate posts and README markers.
-          template: "$newline- [$title]($url) - $description$newline"
-          description_max_length: "120"
+          # Keep each article readable and preserve spacing around the README markers.
+          template: "$newline**[$title]($url)**<br>$newline<sub>$date</sub>$newline$newline$description$newline"
+          date_format: "UTC:mmm d, yyyy"
+          item_exec: |
+            post.description = post.description.replace(/\s+/g, ' ').trim();
+            if (post.description.length > 150) {
+              post.description = post.description.slice(0, 150).replace(/\s+\S*$/, '').replace(/[.,;:!?]+$/, '') + '…';
+            }
           commit_message: "Update latest blog posts"
