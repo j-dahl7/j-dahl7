@@ -17,6 +17,7 @@ jobs:
         with:
           feed_list: "https://nineliveszerotrust.com/index.xml"
           max_post_count: "5"
-          template: "[$title]($url) - $description"
+          # Custom templates need explicit newlines to separate posts and README markers.
+          template: "$newline- [$title]($url) - $description$newline"
           description_max_length: "120"
           commit_message: "Update latest blog posts"
