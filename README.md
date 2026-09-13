@@ -57,6 +57,11 @@ I build and document practical cloud security: stronger identities, useful detec
 <sub>The latest from Nine Lives, Zero Trust · Refreshed daily</sub>
 
 <!-- BLOG-POST-LIST:START -->
+**[Microsoft Security Fall 2026: Five Changes to Prepare For](https://nineliveszerotrust.com/blog/microsoft-security-readiness-fall-2026/)**<br>
+<sub>Sep 12, 2026</sub>
+
+Microsoft’s fall security updates change several assumptions that are easy to leave buried in an old runbook: what a Security Administrator can do…
+
 **[Entra SSPR and Passkey Readiness for Microsoft-Provided SMS/Voice Delivery Retirement](https://nineliveszerotrust.com/blog/entra-sspr-september-2026-readiness/)**<br>
 <sub>Aug 11, 2026</sub>
 
@@ -76,11 +81,6 @@ CISA released the Microsoft Expanded Cloud Logs Implementation Playbook on Janua
 <sub>May 2, 2026</sub>
 
 A Linux local privilege escalation bug is easy to dismiss if you only think in traditional server terms. An attacker already needs local access, so…
-
-**[Block Device Code Phishing in Entra Without Breaking Legit Workflows](https://nineliveszerotrust.com/blog/entra-device-code-phishing-sentinel/)**<br>
-<sub>Apr 25, 2026</sub>
-
-Device code phishing is nasty because the user does not hand over a password. They hand over a session. The lure sends the victim to a legitimate…
 <!-- BLOG-POST-LIST:END -->
 
 **[More field notes →](https://nineliveszerotrust.com/blog/)** &nbsp; · &nbsp; [Subscribe via RSS](https://nineliveszerotrust.com/index.xml)
