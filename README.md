@@ -60,27 +60,27 @@ I build and document practical cloud security: stronger identities, useful detec
 **[Microsoft Security Fall 2026: Five Changes to Prepare For](https://nineliveszerotrust.com/blog/microsoft-security-readiness-fall-2026/)**<br>
 <sub>Sep 12, 2026</sub>
 
-Microsoft’s fall security updates change several assumptions that are easy to leave buried in an old runbook: what a Security Administrator can do…
+Review update &lpar;September 25, 2026&rpar;: The integration identity used for incident comments can require tenant-wide incident-write permission, not a…
 
 **[Entra SSPR and Passkey Readiness for Microsoft-Provided SMS/Voice Delivery Retirement](https://nineliveszerotrust.com/blog/entra-sspr-september-2026-readiness/)**<br>
 <sub>Aug 11, 2026</sub>
 
-Microsoft is advancing three related parts of the Entra authentication and recovery experience between now and next March: On September 1, 2026…
+Microsoft is advancing three related parts of the Entra authentication and recovery experience through July 2027: On September 1, 2026, Microsoft…
 
-**[GigaWiper Detection as Code: Testing the Sentinel Repositories Preview](https://nineliveszerotrust.com/blog/gigawiper-detections-as-code/)**<br>
+**[GigaWiper Detection as Code: Testing Custom Detections in Sentinel Repositories](https://nineliveszerotrust.com/blog/gigawiper-detections-as-code/)**<br>
 <sub>Jul 13, 2026</sub>
 
-Microsoft published its technical analysis of GigaWiper on July 9, 2026. Microsoft describes it as a modular backdoor with destructive capabilities…
+Review update &lpar;September 25, 2026&rpar;: The merged September 25 source now chooses a labeled executable identity from populated SHA1, then SHA256, then a…
 
 **[From Authorization to Action: Operationalizing CISA&#39;s Microsoft Cloud Logs Playbook in Sentinel](https://nineliveszerotrust.com/blog/cisa-microsoft-cloud-logs-sentinel/)**<br>
 <sub>May 10, 2026</sub>
 
-CISA released the Microsoft Expanded Cloud Logs Implementation Playbook on January 15, 2025. Its implementation guidance remains a practical baseline…
+Review update &lpar;September 25, 2026&rpar;: The January 15, 2025 publication date is supported by CISA’s original release notice; the resource landing page…
 
 **[Copy Fail in the Cloud: A Defender, Sentinel, and AKS Response Guide for CVE-2026-31431](https://nineliveszerotrust.com/blog/copy-fail-cve-2026-31431-microsoft-defender-sentinel-aks/)**<br>
 <sub>May 2, 2026</sub>
 
-A Linux local privilege escalation bug is easy to dismiss if you only think in traditional server terms. An attacker already needs local access, so…
+Review update &lpar;September 25, 2026&rpar;: The retained Sentinel/AKS evidence was captured May 2, 2026, without executing Copy Fail exploit code. The May 3…
 <!-- BLOG-POST-LIST:END -->
 
 **[More field notes →](https://nineliveszerotrust.com/blog/)** &nbsp; · &nbsp; [Subscribe via RSS](https://nineliveszerotrust.com/index.xml)
