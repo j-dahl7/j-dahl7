@@ -57,6 +57,11 @@ I build and document practical cloud security: stronger identities, useful detec
 <sub>The latest from Nine Lives, Zero Trust · Refreshed daily</sub>
 
 <!-- BLOG-POST-LIST:START -->
+**[Deleting the Pod Won’t Fix It: Defender’s New Kubernetes Security Scope](https://nineliveszerotrust.com/blog/kubernetes-controller-security-defender-kspm/)**<br>
+<sub>Oct 7, 2026</sub>
+
+My test Deployment had two ready pods. I deleted one. Kubernetes replaced it, and the new pod inherited the same writable-root-filesystem setting…
+
 **[Microsoft Security Fall 2026: Five Changes to Prepare For](https://nineliveszerotrust.com/blog/microsoft-security-readiness-fall-2026/)**<br>
 <sub>Sep 12, 2026</sub>
 
@@ -76,11 +81,6 @@ Review update &lpar;September 25, 2026&rpar;: The merged September 25 source now
 <sub>May 10, 2026</sub>
 
 Review update &lpar;September 25, 2026&rpar;: The January 15, 2025 publication date is supported by CISA’s original release notice; the resource landing page…
-
-**[Copy Fail in the Cloud: A Defender, Sentinel, and AKS Response Guide for CVE-2026-31431](https://nineliveszerotrust.com/blog/copy-fail-cve-2026-31431-microsoft-defender-sentinel-aks/)**<br>
-<sub>May 2, 2026</sub>
-
-Review update &lpar;September 25, 2026&rpar;: The retained Sentinel/AKS evidence was captured May 2, 2026, without executing Copy Fail exploit code. The May 3…
 <!-- BLOG-POST-LIST:END -->
 
 **[More field notes →](https://nineliveszerotrust.com/blog/)** &nbsp; · &nbsp; [Subscribe via RSS](https://nineliveszerotrust.com/index.xml)
