@@ -70,7 +70,7 @@ Review update &lpar;September 25, 2026&rpar;: The integration identity used for 
 **[Entra SSPR and Passkey Readiness for Microsoft-Provided SMS/Voice Delivery Retirement](https://nineliveszerotrust.com/blog/entra-sspr-september-2026-readiness/)**<br>
 <sub>Aug 11, 2026</sub>
 
-Microsoft is advancing three related parts of the Entra authentication and recovery experience through July 2027: On September 1, 2026, Microsoft…
+Schedule update &lpar;November 13, 2026&rpar;: The October 5 and November 9 SSPR dates compared in this article have passed. Microsoft Learn’s SSPR…
 
 **[GigaWiper Detection as Code: Testing Custom Detections in Sentinel Repositories](https://nineliveszerotrust.com/blog/gigawiper-detections-as-code/)**<br>
 <sub>Jul 13, 2026</sub>
