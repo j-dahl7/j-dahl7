@@ -60,27 +60,27 @@ I build and document practical cloud security: stronger identities, useful detec
 **[New Pods, Same Finding: Testing Defender’s Kubernetes Controller Scope](https://nineliveszerotrust.com/blog/kubernetes-controller-security-defender-kspm/)**<br>
 <sub>Oct 7, 2026</sub>
 
-On October 5, 2026, Microsoft announced a welcome change to how Microsoft Defender for Cloud reports Kubernetes misconfigurations. Affected…
+A live AKS test: Defender’s registry finding kept its identity across a template rollout, while the read-only-root-filesystem finding disappeared…
 
 **[Microsoft Security Fall 2026: Five Changes to Prepare For](https://nineliveszerotrust.com/blog/microsoft-security-readiness-fall-2026/)**<br>
 <sub>Sep 12, 2026</sub>
 
-Review update &lpar;September 25, 2026&rpar;: The integration identity used for incident comments can require tenant-wide incident-write permission, not a…
+Prepare for Entra response-role changes, Sentinel AI playbooks, legacy risk-policy retirement, free CSPM opt-in, and memberOf retirement this fall.
 
 **[Entra SSPR and Passkey Readiness for Microsoft-Provided SMS/Voice Delivery Retirement](https://nineliveszerotrust.com/blog/entra-sspr-september-2026-readiness/)**<br>
 <sub>Aug 11, 2026</sub>
 
-Schedule update &lpar;November 13, 2026&rpar;: The October 5 and November 9 SSPR dates compared in this article have passed. Microsoft Learn’s SSPR…
+Prepare Entra ID for passkeys by default, SSPR registered-method enforcement, the 2027 SMS/voice delivery retirement, and security-question…
 
 **[GigaWiper Detection as Code: Testing Custom Detections in Sentinel Repositories](https://nineliveszerotrust.com/blog/gigawiper-detections-as-code/)**<br>
 <sub>Jul 13, 2026</sub>
 
-Review update &lpar;September 25, 2026&rpar;: The merged September 25 source now chooses a labeled executable identity from populated SHA1, then SHA256, then a…
+Build five GigaWiper detections in Bicep, test the Sentinel Repositories custom-detection preview, and safely validate three portal-native Defender…
 
 **[From Authorization to Action: Operationalizing CISA&#39;s Microsoft Cloud Logs Playbook in Sentinel](https://nineliveszerotrust.com/blog/cisa-microsoft-cloud-logs-sentinel/)**<br>
 <sub>May 10, 2026</sub>
 
-Review update &lpar;September 25, 2026&rpar;: The January 15, 2025 publication date is supported by CISA’s original release notice; the resource landing page…
+Map CISA&#39;s Microsoft cloud logging guidance to Entra, Purview, Microsoft 365, Azure Activity, Defender, and Sentinel detection coverage.
 <!-- BLOG-POST-LIST:END -->
 
 **[More field notes →](https://nineliveszerotrust.com/blog/)** &nbsp; · &nbsp; [Subscribe via RSS](https://nineliveszerotrust.com/index.xml)
